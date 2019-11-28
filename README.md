@@ -1,5 +1,8 @@
 # Innovacer-Intern
 
+# Approach
+I defined a model that contains all the attributes stored in the MySQL table. Then I created two forms, one for the submission and another to get the details of the checkout time. In helpers.py file, there are two functions defined mainly, one to craete template and all necessary details for sending sms and another is to create template for sending mail to host. It also takes care of certain errors and exceptions. Then used HTML, Bootstrap for the frontend integrated with the backend.
+
 # Tech Stack
 
 * Flask
@@ -41,3 +44,9 @@
 
 * Further you can checkout from this software leaving deatials about host to visitor via mail and message<br>
 ![Checkout](https://github.com/pawangeek/Innovacer-Intern/blob/master/Images/Checkout.png)
+
+# Conatact Details
+Name: Pawan Kumar Jain
+Phone: +91 9079250835
+Email: pawanjain.432@gmail.com
+altEmail: 17ucs108@lnmiit.ac.in
