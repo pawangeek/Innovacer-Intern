@@ -20,24 +20,24 @@
 * Create Account on twilio to get auth_id and token
 * Create a Phone number for machine based sms to mobile from twilio. Check them at `https://www.twilio.com/console/`
 * Create database `myflaskapp` using mysql client by `create database myflaskapp;`
-* Create table `visitors2` after `use myflaskapp;`
+* Create table `visitors2` after `use myflaskapp;` and you able to create something like this<br>
 ![Database](https://github.com/pawangeek/Innovacer-Intern/blob/master/Images/Database.png)
 
-* Set your mysql cresentials and an email+password for smtplib. After completion of all these steps you will see something like this
+* Set your mysql cresentials and an email+password for smtplib. After completion of all these steps you will see something like this<br>
 ![Setup](https://github.com/pawangeek/Innovacer-Intern/blob/master/Images/Directory.png)
 
-* Start the sever fo to `http://127.0.0.1:5000/` and you will see something like this
+* Start the sever fo to `http://127.0.0.1:5000/` and you will see something like this<br>
 ![Home](https://github.com/pawangeek/Innovacer-Intern/blob/master/Images/Home.png)
 
-* Go to About Me and you will see something like this
+* Go to About Me and you will see something like this<br>
 ![About](https://github.com/pawangeek/Innovacer-Intern/blob/master/Images/About.png)
 
-* Navigate to Register page and fill all necessary checkin details there
+* Navigate to Register page and fill all necessary checkin details there<br>
 ![Register](https://github.com/pawangeek/Innovacer-Intern/blob/master/Images/Register.png)
 
-* After filling Details under Register Section. Host will get mail and message regarding visitor's checkin like this
+* After filling Details under Register Section. Host will get mail and message regarding visitor's checkin like this<br>
 ![Mail](https://github.com/pawangeek/Innovacer-Intern/blob/master/Images/Mail.png)
 ![Message](https://github.com/pawangeek/Innovacer-Intern/blob/master/Images/Message.png)
 
-* Further you can checkout from this software leaving deatials about host to visitor via mail and message
+* Further you can checkout from this software leaving deatials about host to visitor via mail and message<br>
 ![Checkout](https://github.com/pawangeek/Innovacer-Intern/blob/master/Images/Checkout.png)
