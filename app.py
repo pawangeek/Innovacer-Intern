@@ -62,7 +62,7 @@ def register():
         sendmsg(msg_host, '+91'+ hostphone)
 
         #sending mail to host
-        sendmail(msg_host, 'yashnavlakha.1@gmail.com', hostemail, '123pawan123')
+        sendmail(msg_host, 'yashnavlakha.1@gmail.com', hostemail, '########')
         flash('Registration Succesful! Have a Good Day')
 
         return redirect(url_for('home'))
@@ -96,7 +96,7 @@ def checkout():
             session['msg_guest'] = 'Meeting Details' + '\n' + 'Name - '+ session['guestname']  +'\n' + 'Email - ' + session['guestemail'] + '\n' + 'Phone - ' + session['guestphone'] + '\n' + 'Check Time - ' + session['checkin'] +'\n'+'checkout Time - ' + checkout +'\n' + 'Host Name - ' + session['hostname'] +'\n' + 'Address Visited - ' + visitedaddress   
             sendmsg(session['msg_guest'], '+91'+ session['guestphone'])
 
-            sendmail(session['msg_guest'], 'yashnavlakha.1@gmail.com' ,session['guestemail'], '123pawan123' )
+            sendmail(session['msg_guest'], 'yashnavlakha.1@gmail.com' ,session['guestemail'], '###########' )
             flash('Succesfully Checked Out')
             cur.close()
             return render_template('home.html')
