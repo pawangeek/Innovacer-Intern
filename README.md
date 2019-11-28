@@ -46,7 +46,8 @@ I defined a model that contains all the attributes stored in the MySQL table. Th
 ![Checkout](https://github.com/pawangeek/Innovacer-Intern/blob/master/Images/Checkout.png)
 
 # Conatact Details
-Name: Pawan Kumar Jain
-Phone: +91 9079250835
-Email: pawanjain.432@gmail.com
-altEmail: 17ucs108@lnmiit.ac.in
+
+* Name: Pawan Kumar Jain
+* Phone: +91 9079250835
+* Email: pawanjain.432@gmail.com
+* altEmail: 17ucs108@lnmiit.ac.in
